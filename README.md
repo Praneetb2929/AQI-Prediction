@@ -109,15 +109,16 @@ The app includes:
 
 ### 1️⃣ Clone the repository
  ```bash
-ffgg
+git clone https://github.com/Praneetb2929/AQI-Prediction.git
+cd AQI-Prediction
  ```
 ### 2️⃣ Install dependencies
  ```bash
-dddf
+pip install -r requirements.txt
  ```
 ### 3️⃣ Run the application
 ```bash
-dff
+streamlit run app.py
 ```
 ---
 
