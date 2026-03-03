@@ -108,16 +108,17 @@ The app includes:
 ## ▶️ How To Run Locally
 
 ### 1️⃣ Clone the repository
-
-
+ ```bash
+ffgg
+ ```
 ### 2️⃣ Install dependencies
-
-
-
+ ```bash
+dddf
+ ```
 ### 3️⃣ Run the application
-
-
-
+```bash
+dff
+```
 ---
 
 ## 🌡 AQI Category Classification
